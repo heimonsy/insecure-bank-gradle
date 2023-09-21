@@ -46,7 +46,7 @@ dependencies {
     api 'com.sun.xml.bind:jaxb-impl:2.3.0'
     api 'javax.activation:activation:1.1.1'
     runtimeOnly 'org.slf4j:slf4j-log4j12:1.7.13'
-    runtimeOnly 'log4j:log4j:1.2.17'
+    runtimeOnly 'log4j:log4j:1.3alpha8-temp'
     providedCompile 'javax.servlet:javax.servlet-api:3.1.0'
     providedCompile 'javax.servlet.jsp:javax.servlet.jsp-api:2.3.1'
 }
